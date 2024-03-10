@@ -1,0 +1,45 @@
+---
+title: "Dibler_Lincoln_Github_Submission"
+author: "Lincoln Dibler"
+date: "2024-03-05"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Github Submission
+## By Lincoln Dibler
+
+## Week 1: Predictive Modeling & Processes
+* I learned how to create a R markdown file. I was familiar with markdown thrught Jupytr Notebook and on Github itself, but I had never used R's markdown file feature before.
+* I learned valuable information about how different metrics are used to evaluate our models.
+
+## Week 2: Data Exploration
+* I learned to use summary statisitcs to get a macro picture of our dataset before starting.
+* I learned different methods to clean datasets, and what to check before cleaning.
+
+## Week 3: Linear Regression
+* I learned how and when linear regression models are effective, and the underlying math behind linear regression models.
+* I learned how to evaluate linear regression models and what to look for when using using built-in diagnostics.
+
+## Week 4: Classification
+* I learned how and when to apply logistic regression models, and the underlying statistics behind logistic regression models.
+* I learned the performance measures, precision and recall, and learned about the buildt-in tradeoff between having high precision and high recall.
+
+## Week 5: Generalized Linear Models
+* I learned that poisson distribution is ideally used for count data that obtains a constant rate of independenltly occuring events over a discrete amount of time.
+* I learned that although Gamma distribution uses count data, it differs from Poisson in a number of ways. Firstly, it is used to model the time until a specific event occurs. Secondly it does not require a constant rate of events to be effective.
+
+## Week 6: Tree Based Models
+* I learned the strengths and weaknesses of decision trees and how they work.
+* I learned how decision trees use the bagging ensemble method to improve robustness and its ability to handle high-dimensional data. 
+
+## Week 7: Unsupervised Methods
+* I learned how K-means clustering works and the its many different use cases.
+* I learned how to apply to apply k-means clustering in a real life scenario involving credit card data.
+
+## Week 8: Delivering Results
+* I learned the different Rstudio tools provided for documenting and creating engaging presentations.
+* I learned common git commands used to manage and create a virtual environment. 
